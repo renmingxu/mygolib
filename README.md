@@ -1,0 +1,2 @@
+# mygolib
+My Golang Library
